@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTaskDemo</string>
+    <string name="load_icon_string">Load Icon</string>
+    <string name="image_desc_string">Image</string>
+</resources>
